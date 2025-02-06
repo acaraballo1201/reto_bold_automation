@@ -1,6 +1,6 @@
 #language:es
 
-@Login
+@Formulario
 
  Característica: formulario
   Como usuario de la aplicacion web demmoQA
